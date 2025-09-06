@@ -1,6 +1,6 @@
 # Equipe Echo - Projetos Acadêmicos FATEC-JessenVidal/SJC
 
-<img src="echo.jpg" style="margin-left: auto; margin-right: auto;">
+<img src="echoBanner.jpg" style="margin-left: auto; margin-right: auto;">
 
 
 Semestre | Cliente | Descrição | Repositório | 
