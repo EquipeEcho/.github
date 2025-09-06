@@ -5,9 +5,9 @@
 
 Semestre | Cliente | Descrição | Repositório | 
 |------|--------|------------|-------|
-|<p style="text-align">1° |<p style="text-align"> Antônio Egídio | <p style="text-align"> Website para ensino do método Ágil SCRUM, com validação de conhecimento através de quiz e certificado.| https:/github.com/EquipeEcho/EasyScrum |
-|<p style="text-align">2° |<p style="text-align"> Juliano Bertoti |<p style="text-align"> Ambiente de Desenvolvimento(IDE) integrado à LLM, com ênfase na criação de códigos para geração de gráficos.| https:/github.com/botEcho |
-|<p style="text-align">3°|<p style="text-align"> Entrenova|<p style="text-align"> Automatização de sistema de diagnósticos para geração de trilha de treinamento personalizada.| https:/github.com/EquipeEcho/EchoNova |
+|<p style="text-align">1° |<p style="text-align"> Antônio Egídio | <p style="text-align"> Website para ensino do método Ágil SCRUM, com validação de conhecimento através de quiz e certificado.| <https:/github.com/EquipeEcho/EasyScrum> |
+|<p style="text-align">2° |<p style="text-align"> Juliano Bertoti |<p style="text-align"> Ambiente de Desenvolvimento(IDE) integrado à LLM, com ênfase na criação de códigos para geração de gráficos.| <https:/github.com/botEcho> |
+|<p style="text-align">3°|<p style="text-align"> Entrenova|<p style="text-align"> Automatização de sistema de diagnósticos para geração de trilha de treinamento personalizada.| <https:/github.com/EquipeEcho/EchoNova> |
 
 # Equipe:
 Nome | Linkedin & Github
